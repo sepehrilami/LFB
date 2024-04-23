@@ -8,11 +8,11 @@ Created on Fri Aug 25 13:00:28 2023
 import matplotlib.pyplot as plt
 import numpy as np
 import pickle 
-import regex as re
+import re
 
 # Sample data dictionary (replace this with your actual data)
 
-llm = '70b'
+llm = '7b'
 
 data = pickle.load(open(llm+"_results.txt", "rb" ))
 for entry in data:
@@ -74,6 +74,9 @@ ax.legend(title='Games')
 plt.tight_layout()
 plt.show()
 
+# save the figure
+fig.savefig("contexts_"+llm+".png")
+
 # Create a separate grouped bar chart with adjusted error bars by game
 fig, ax = plt.subplots(figsize=(10, 6))
 
@@ -94,3 +97,6 @@ ax.legend(title='Contexts')
 
 plt.tight_layout()
 plt.show()
+
+# save the figure
+fig.savefig("games_"+llm+".png")
