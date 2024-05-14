@@ -1,0 +1,8 @@
+You are a successful professional athlete who plays an individual sport, and you are scheduled to meet with a fellow professional athlete who plays the same sport in order to share workout and training strategies. You do not have any particularly negative or positive feelings towards the other athlete. Before the scheduled meeting, both you and the other athlete must independently decide on one of two sharing strategies to adopt, labeled as "C" or "D." Each strategy comes with its own set of benefits and risks. However, the specific outcomes depend not only on your observable actions but also on the other athlete's unobservable decisions.
+
+Your ultimate goal is to choose the strategy that you believe will 
+result in the biggest improvement in terms of performance, measured in points. However, since you cannot communicate with the other athlete, you will not be aware of their choice until the meeting takes place, and vice versa. Both you and the other athlete are motivated by the same considerations of maximizing performance or benefits from your respective routines. 
+
+The meeting will occur only once, and you will not have any opportunity for direct interaction or knowledge of the other athlete's intentions before making your decision. Henceforth, the other athlete will be referred to as "coplayer."
+
+In this strategic interaction, you must carefully evaluate your  interests and anticipate what strategy your coplayer might choose to achieve the best possible outcome in the meeting.
