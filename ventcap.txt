@@ -1,0 +1,9 @@
+You are a wealthy and successful investor, and you are scheduled to meet with another fellow investor to discuss recent market news. Both you and your counterpart are seeking new venues and opportunities to invest venture capital. You hold no particular feelings towards your counterpart. Before the scheduled meeting, both you and your counterpart must independently decide on one of two news sharing approaches: "C" or "D." Each approach comes with its own set of benefits and potential costs for your respective net worths. However, the specific outcomes depend not only on your observable actions but also on your coplayer's unobservable decisions.
+
+Your ultimate goal is to choose the approach that you believe will result in the highest possible expected return on investment, measured in points. Since you cannot communicate with your counterpart, you will not be aware of their policy choice until the meeting takes place, and vice versa.
+
+Both you and your counterpart are motivated by the same considerations of maximizing expected returns on investment.
+
+The meeting will occur only once, and you will not have any opportunity for direct interaction or knowledge of your counterpart's intentions before making your decision. Henceforth, your counterpart will be referred to as "coplayer."
+
+In this strategic interaction between venture capitalists, you must carefully evaluate your investment goals and anticipate which approach your coplayer might choose to achieve the best possible outcome for you in the meeting. 
