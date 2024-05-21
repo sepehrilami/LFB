@@ -1,0 +1,12 @@
+sports_prison: {'  C': 414, '  D': 186}
+sports_delight: {'  C': 442, '  D': 158}
+sports_staghunt: {'  C': 436, '  D': 164}
+sports_snowdrift: {'  C': 418, '  D': 182}
+roomsharing_prison: {'  C': 448, '  D': 152}
+roomsharing_delight: {'  C': 446, '  D': 154}
+roomsharing_staghunt: {'  C': 478, '  D': 122}
+roomsharing_snowdrift: {'  C': 458, '  D': 142}
+ventcap_prison: {'  C': 444, '  D': 156}
+ventcap_delight: {'  C': 440, '  D': 160}
+ventcap_staghunt: {'  C': 442, '  D': 158}
+ventcap_snowdrift: {'  C': 438, '  D': 162}
