@@ -2,11 +2,11 @@ IR_prison: {'C': 27, 'D': 13}
 IR_delight: {'C': 35, 'D': 5}
 IR_staghunt: {'D': 319, 'C': 2667}
 IR_snowdrift: {'C': 2416, 'D': 544}
-biz_prison: {'C': 1633, 'D': 1327}
-biz_delight: {'C': 2480, 'D': 480}
-biz_staghunt: {'C': 2176, 'D': 784}
+biz_prison: {'C': 1632, 'D': 1326, 'I choose D.': 1, 'I choose:\n\nC': 1}
+biz_delight: {'C': 2478, 'D': 480, 'I choose C.': 1, 'C\n\n(Note: I will not explain my reasoning, as per the instructions)': 1}
+biz_staghunt: {'C': 2175, 'D': 784, 'I choose: C': 1}
 biz_snowdrift: {'D': 1060, 'C': 1900}
-friendsharing_prison: {'C': 295, 'D': 54}
+friendsharing_prison: {'C': 294, 'D': 54, 'I choose: C': 1}
 friendsharing_delight: {'C': 38, 'D': 2}
 friendsharing_staghunt: {'C': 34, 'D': 6}
 friendsharing_snowdrift: {'C': 40}
