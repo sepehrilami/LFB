@@ -1,0 +1,21 @@
+Game,Improvement (%)
+IR_prison,18.64406779661017
+IR_delight,27.439024390243905
+IR_staghunt,32.3943661971831
+IR_snowdrift,31.372549019607842
+biz_prison,18.354430379746837
+biz_delight,32.25806451612903
+biz_staghunt,28.289473684210524
+biz_snowdrift,20.666666666666668
+friendsharing_prison,-5.0
+friendsharing_delight,3.4482758620689653
+friendsharing_staghunt,66.66666666666666
+friendsharing_snowdrift,123.07692307692308
+environment_prison,50.0
+environment_delight,51.886792452830186
+environment_staghunt,53.65853658536586
+environment_snowdrift,45.038167938931295
+team_prison,-25.0
+team_delight,200.0
+team_staghunt,80.0
+team_snowdrift,72.0
