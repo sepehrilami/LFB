@@ -1,0 +1,15 @@
+# Project dependencies
+
+# Package dependencies
+numpy
+pandas
+torch
+tokenizer
+bitsandbytes
+transformers
+accelerate
+einops
+langchain
+xformers
+groq
+langchain-groq
