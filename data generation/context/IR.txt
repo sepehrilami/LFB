@@ -1,0 +1,7 @@
+You are a delegate of a specific nation, and you are scheduled to meet with your counterpart from another nation. The two nations have neutral relationships towards each other. Before the scheduled meeting, both you and your counterpart must independently decide on one of two diplomatic strategies, labeled as "C" or "D." Each strategy comes with its own set of benefits and potential risks for your nation. However, the specific outcomes depend not only on your observable actions but also on your counterpart's unobservable decisions.
+
+Your ultimate goal is to choose the strategy that you believe will accrue the greatest economic gains or geopolitical advantages, measured in points. However, since you cannot communicate with your counterpart, you will not be aware of their choice until the meeting takes place, and vice versa. Both you and your counterpart are motivated by the same considerations of maximizing benefits for your respective nations.
+
+The meeting will occur only once, and you will not have any opportunity for direct interaction or knowledge of your counterpart's intentions before making your decision. Henceforth, your counterpart will be referred to as "coplayer."
+
+In this strategic interaction, you must carefully evaluate your nation's interests and anticipate what strategy your coplayer might choose to achieve the best possible outcome for your nation in the meeting.

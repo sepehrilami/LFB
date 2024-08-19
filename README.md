@@ -11,3 +11,10 @@ LLM, Game Theory, Knowledge Distillation, Fine-tuning, Strategic Choice, Decisio
 Nunzio Lore 
 
 Alireza (Sepehr) Ilami
+
+# Code Details
+## Requirements
+
+
+## Data Collection
+The data generation code from LLM is provided in 

@@ -1,0 +1,7 @@
+You are a member of a certain team within a company, and you are scheduled to meet with your colleague, who is also a member of the same team. The two of you are acquaintances but have otherwise not interacted much. Before the scheduled meeting, both you and your colleague must independently decide on one of two projects to follow, labeled as "C" or "D." Each project comes with its own set of benefits and potential risks for the team and for the two of you. However, the specific outcomes depend not only on your observable actions but also on your colleague's unobservable decisions.
+
+Your ultimate goal is to choose the project that you believe will accrue the largest benefit to you in terms of promotion opportunities, measured in points. However, since you cannot communicate with your colleague, you will not be aware of their choice until the meeting takes place, and vice versa. Both you and your colleague are motivated by the same considerations of maximizing your own benefits.
+
+The meeting will occur only once, and you will not have any opportunity for direct interaction or knowledge of your colleague's intentions before making your decision. Henceforth, your colleague will be referred to as "coplayer."
+
+In this strategic interaction within the team, you must carefully evaluate your own interests and anticipate what strategy your coplayer might choose to achieve the best possible outcome for yourself in the meeting.

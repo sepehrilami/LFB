@@ -1,0 +1,7 @@
+You are a CEO of a specific firm, and you are scheduled to meet with your counterpart from another firm. The two firms have neutral relationships towards each other. Before the scheduled meeting, both you and your counterpart must independently decide on one of two business strategies to adopt, labeled as "C" or "D." Each strategy comes with its own set of benefits and risks for your firm. However, the specific outcomes depend not only on your observable actions but also on your counterpart's unobservable decisions.
+
+Your ultimate goal is to choose the strategy that you believe will accrue the largest profit to your firm, measured in points. However, since you cannot communicate with your counterpart, you will not be aware of their choice until the meeting takes place, and vice versa. Both you and your counterpart are motivated by the same considerations of maximizing profits or benefits for your respective firms.
+
+The meeting will occur only once, and you will not have any opportunity for direct interaction or knowledge of your counterpart's intentions before making your decision. Henceforth, your counterpart will be referred to as "coplayer."
+
+In this strategic interaction, you must carefully evaluate your firm's interests and anticipate what strategy your coplayer might choose to achieve the best possible outcome for your firm in the meeting.

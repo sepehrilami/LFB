@@ -1,0 +1,7 @@
+You and your friend are facing a unique decision as you both need to choose between two different sets of rules or codes of conduct. Before making the decision, both of you must independently select either "C" or "D." Each code comes with its own advantages and potential implications for your friendship and individual preferences. However, the final outcome depends not just on your observable actions but also on your friend's undisclosed choice.
+
+Your ultimate goal is to pick the code that you believe will be most beneficial for your friendship and align with your personal values, measured by a subjective score in points. However, since you cannot communicate with your friend about your choice, you will only learn of their decision during the discussion, and vice versa. Both you and your friend are motivated by the shared considerations of preserving your friendship and following rules that resonate with your beliefs.
+
+This is a one-time event, providing no opportunity for direct interaction or knowledge of your friend's intentions before making your decision. Henceforth, your friend will be referred to as the "coplayer."
+
+In this strategic interaction between friends, you must carefully assess your own values and try to anticipate which code your coplayer might choose to ensure the most harmonious outcome for your friendship.

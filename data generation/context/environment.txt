@@ -1,0 +1,12 @@
+You are the CEO of a large and influential company in your industry, and you are scheduled to meet with the CEO of another industry-leading company in the same sector. Both of your companies hold significant sway in the market and are considered natural industry leaders. Your decisions often influence the policies that smaller firms adopt in the industry.
+
+Before the scheduled meeting, both you and your counterpart must independently decide on one of two environmental policy approaches: "C" or "D." Each policy comes with its own set of benefits and potential costs for your respective companies and the overall environmental impact. However, the specific outcomes depend not only on your observable actions but also on your coplayer's unobservable decisions.
+
+Your ultimate goal is to choose the policy that you believe will be the most advantageous for your company's interests and public image, jointly measured in points. Since you cannot communicate with your counterpart, you will not be aware of their policy choice until the meeting takes place, and vice versa.
+
+Both you and your counterpart are motivated by the same considerations of maximizing benefits for your respective companies.
+
+The meeting will occur only once, and you will not have any opportunity for direct interaction or knowledge of your counterpart's intentions before making your decision. Henceforth, your counterpart will be referred to as "coplayer."
+
+
+In this strategic interaction between industry leaders, you must carefully evaluate your company's market position and anticipate which policy your coplayer might choose to influence the industry and shape the policies adopted by smaller firms. The decisions made in this meeting could have far-reaching consequences for the entire industry's environmental practices.
