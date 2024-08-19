@@ -15,7 +15,9 @@ To install the requirements, run the following command:
 The data for creating the prompts are available in the /data directory.
 
 ## Rerun the experiment
-This experiment was done using Groq platform for loading the LLMs. However, with the introduction of LlaMa3 models, LLaMa2 models are no longer available through Groq APIs. Therefore, to rerun the experiments, we need to use a system which had sufficient GPU power.
+This experiment was done using the Groq platform for loading the LLMs. However, with the introduction of LlaMa3 models, LLaMa2 models are no longer available through Groq APIs. Therefore, to rerun the experiments, we need to use a system with sufficient GPU power.
+If you want to prompt LLaMa2-7b and LlaMa2-70b models, you need to use Huggingface platform and your own API to access those two models.
+If you want to prompt a finetuned model locally, you only need to upload the model next to this file and load it in the code. 
 
 ## Description of each file
 main_experiment.ipynb: In this file create the prompts based on games and contexts, and prompt the LLMs and collect their results.
