@@ -22,3 +22,13 @@ mainloop.ipynb: This file replicates the original experiment and creates new dat
 
 webul.ipynb: This file replicates the fine-tuning procedure we adopted to create l2tune. Note that an installation of LLaMafactory is necessary. The .json file factory_ready contains the original dataset used for fine-tuning, conveniently stored and organized according to LLaMafactory's syntax.
 
+## Notebooks
+The following notebooks were implemented for visualization and comparison of the three models performances across various scenarios.
+
+in-sample-context-analysis.ipynb: Analysis of the results of in-sample game and contexts. Results for this experiment are in /results directory. The model names are 7b_org, 7b_finetuned, and 70b_reasoning. The 70b is an extra test (without reasoning) and is not included in the paper results.
+
+ood_game_analysis.ipynb: Similar to the main experiment, but with out-of-sample games (which were the same games but with different pay-off values. The pay-off matrix values were doubled). Results are saved in /ood_game directory.
+
+oos_analysis: Similar to the main experiment, but with 3 out-of-sample contexts. Results are saved in /oos_context directory.
+
+pgg_analysis: The analysis of out-of-sample game and context, which was a public pool game (PGG), called donation game. The results are saved in the /pgg directory.
