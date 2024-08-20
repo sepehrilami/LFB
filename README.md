@@ -29,6 +29,8 @@ in-sample-context-analysis.ipynb: Analysis of the results of in-sample game and 
 
 ood_game_analysis.ipynb: Similar to the main experiment, but with out-of-sample games (which were the same games but with different pay-off values. The pay-off matrix values were doubled). Results and figs are saved in /ood_game and /ood_game_figs directory.
 
-oos_analysis: Similar to the main experiment, but with 3 out-of-sample contexts. Results and figs are saved in /oos_context and /oos_context_figs directory.
+oos_analysis.ipynb: Similar to the main experiment, but with 3 out-of-sample contexts. Results and figs are saved in /oos_context and /oos_context_figs directory.
 
-pgg_analysis: The analysis of out-of-sample game and context, which was a public pool game (PGG), called donation game. The results and figs are saved in the /pgg and /pgg_figs directory.
+pgg_analysis.ipynb: The analysis of out-of-sample game and context, which was a public pool game (PGG), called donation game. The results and figs are saved in the /pgg and /pgg_figs directory.
+
+progfig.py: Visualizing the LlaMa2-7b behavior across various contexts and games to show it is not game-aware or context-aware by itself (non-finetuned).
