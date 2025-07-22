@@ -1,6 +1,6 @@
 team_prison_d: {'  C': 67, '  D': 233}
 team_delight_d: {'  C': 170, '  D': 130}
-team_staghunt_d: {'  C': 144, '  D': 256}
+team_staghunt_d: {'  C': 144, '  D': 156}
 team_snowdrift_d: {'  C': 89, '  D': 211}
 IR_prison_d: {'  C': 0, '  D': 300}
 IR_delight_d: {'  C': 122, '  D': 178}
